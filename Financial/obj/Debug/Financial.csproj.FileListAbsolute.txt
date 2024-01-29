@@ -1,0 +1,231 @@
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\bin\Debug\Financial.exe.config
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\bin\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\bin\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.csproj.AssemblyReference.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.Properties.Resources.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.csproj.GenerateResource.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.SignIn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.SignUp.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.Dashboard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.frmAddCard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.frmBanking.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.frmHome.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.frmTransfer.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware\Financial\obj\Debug\Financial.frmNotification.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\bin\Debug\Financial.exe.config
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\bin\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\bin\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.csproj.AssemblyReference.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.Dashboard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmAddCard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmHome.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmNotification.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmTransfer.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.SignIn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.Properties.Resources.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.SignUp.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.csproj.GenerateResource.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmSavingAccount.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.BillPayment.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmPaymentHistory.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.PaymentSummery.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmGuessingGame.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.frmPortfolio.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2\Financial\obj\Debug\Financial.GameNotify.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Financial.exe.config
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\EnvDTE.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\stdole.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\Microsoft.MSXML.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.csproj.AssemblyReference.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.BillPayment.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.Dashboard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmAddCard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmGuessingGame.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmHome.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmNotification.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmPaymentHistory.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmPortfolio.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmSavingAccount.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmTransfer.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.GameNotify.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.PaymentSummery.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.SignIn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.Properties.Resources.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.SignUp.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.csproj.GenerateResource.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.csproj.CopyComplete
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.rptAccountSummary.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\RdlCompile.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\RdlCompile.compiled
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.rptPaymentHistory.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.rptTransactionSummery.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V2 - Reports\Financial\obj\Debug\Financial.frmEarn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Financial.exe.config
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\EnvDTE.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\stdole.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Microsoft.MSXML.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.csproj.AssemblyReference.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.BillPayment.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.Dashboard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmAddCard.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmEarn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmGuessingGame.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmHome.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmNotification.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmPaymentHistory.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmPortfolio.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmSavingAccount.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.frmTransfer.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.GameNotify.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.PaymentSummery.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.rptAccountSummary.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.rptPaymentHistory.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.rptTransactionSummery.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.SignIn.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.Properties.Resources.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.SignUp.resources
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.csproj.GenerateResource.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\RdlCompile.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\RdlCompile.compiled
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.csproj.CoreCompileInputs.cache
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.csproj.CopyComplete
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.exe
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.WinForms.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.Wpf.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.xml
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.WinForms.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.WinForms.xml
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.Wpf.pdb
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\LiveCharts.Wpf.xml
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Financial.exe.manifest
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\Financial.application
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.exe.manifest
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.application
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\bin\Debug\QRCoder.dll
+E:\NIBM\Sem 2 Stage 1\GAD\ශකබුම් CourseWork\FinancialSofware V3\Financial\obj\Debug\Financial.AccQR.resources

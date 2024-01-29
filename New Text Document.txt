@@ -1,0 +1,41 @@
+
+                        if(guessCount == 1)
+                        {
+                            GameNotify gameNotify = new GameNotify("Congratulations!\nYou guessed the number in " + guessCount + " guesses.");
+                            gameNotify.ShowDialog();
+                            earn = 200;
+                            accountBalance += earn;
+                            txtGuessNum.Enabled = false;
+                            btnGuess.Enabled = false;
+                            updateMyAccounts();
+                        }
+                        else if(guessCount == 2)
+                        {
+                            GameNotify gameNotify = new GameNotify("Congratulations!\nYou guessed the number in " + guessCount + " guesses.");
+                            gameNotify.ShowDialog();
+                            earn = 150;
+                            accountBalance += earn;
+                            txtGuessNum.Enabled = false;
+                            btnGuess.Enabled = false;
+                            updateMyAccounts();
+                        }
+                        else if(guessCount == 3)
+                        {
+                            GameNotify gameNotify = new GameNotify("Congratulations!\nYou guessed the number in " + guessCount + " guesses.");
+                            gameNotify.ShowDialog();
+                            earn = 100;
+                            accountBalance += earn;
+                            txtGuessNum.Enabled = false;
+                            btnGuess.Enabled = false;
+                            updateMyAccounts();
+                        }
+                        else if(guessCount == 4)
+                        {
+                            GameNotify gameNotify = new GameNotify("Congratulations!\nYou guessed the number in " + guessCount + " guesses.");
+                            gameNotify.ShowDialog();
+                            earn = 75;
+                            accountBalance += earn;
+                            txtGuessNum.Enabled = false;
+                            btnGuess.Enabled = false;
+                            updateMyAccounts();
+                        }
