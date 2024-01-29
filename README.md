@@ -25,4 +25,4 @@ Genius Saver is a basic banking app developed as a part of the Graphical User In
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DMaleesha/genius-saver.git  
+   git clone https://github.com/dinithmaleesha/genius-saver.git
